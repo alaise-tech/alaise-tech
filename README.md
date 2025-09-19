@@ -24,4 +24,3 @@ Projetos práticos para consolidar o aprendizado em Python.
 ---
 ⭐ *"Em Constante Evolução."*
 
-⭐ *"Em Constante Evolução."*
