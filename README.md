@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, Me chamo Alaise!
 
-<!--
-**alaise-tech/alaise-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Graduanda em Ciência da Computação** no Instituto Federal de Sergipe  
+🔧 **Técnica em Manutenção e Suporte em Informática**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo
+- **Linguagens:** Python, C#
+- **Banco de Dados:** MySQL
+- **Versionamento:** Git & GitHub
+- **Outros:** VS Code, Visual Studio
+
+---
+
+## 📚 Projetos em destaque
+
+[Python3-curso-em-video](https://github.com/alaise-tech/Python3-curso-em-video)  
+Repositório com exercícios e anotações do curso de Python.
+
+[Jornada Python](https://github.com/alaise-tech/Jornada-Python)  
+Projetos práticos para consolidar o aprendizado em Python.
+
+---
+⭐ *"Em Constante Evolução."*
+
+⭐ *"Em Constante Evolução."*
