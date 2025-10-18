@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Tecnologias que estou aprendendo
-- **Linguagens:** Python, C#
+- **Linguagens:** Python,Java
 - **Banco de Dados:** MySQL
 - **Versionamento:** Git & GitHub
 - **Outros:** VS Code, Visual Studio
