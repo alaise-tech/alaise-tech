@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Tecnologias que estou aprendendo
-- **Linguagens:** Python,Java
+- **Linguagens:** Java
 - **Banco de Dados:** MySQL
 - **Versionamento:** Git & GitHub
 - **Outros:** VS Code, Visual Studio
@@ -21,6 +21,4 @@ Repositório com exercícios e anotações do curso de Python.
 [Jornada Python](https://github.com/alaise-tech/Jornada-Python)  
 Projetos práticos para consolidar o aprendizado em Python.
 
----
-⭐ *"Em Constante Evolução."*
 
