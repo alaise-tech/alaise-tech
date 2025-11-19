@@ -10,14 +10,7 @@
 - **Versionamento:** Git & GitHub
 - **Outros:** VS Code, Visual Studio
 
----
 
-## 📚 Projetos em destaque
 
-[Python3-curso-em-video](https://github.com/alaise-tech/Python3-curso-em-video)  
-Repositório com exercícios e anotações do curso de Python.
-
-[Jornada Python](https://github.com/alaise-tech/Jornada-Python)  
-Projetos práticos para consolidar o aprendizado em Python.
 
 
