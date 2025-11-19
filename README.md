@@ -8,7 +8,6 @@
 - **Linguagens:** Java
 - **Banco de Dados:** MySQL
 - **Versionamento:** Git & GitHub
-- **Outros:** VS Code, Visual Studio
 
 
 
