@@ -1,6 +1,4 @@
-
-
-[# 👩🏻‍💻 Alaise Caetano.md](https://github.com/user-attachments/files/23660949/Alaise.Caetano.md)
+[# 👩🏻‍💻 Alaise Caetano.md](https://github.com/user-attachments/files/23661006/Alaise.Caetano.md)
 # 👩🏻‍💻 Alaise Caetano
 
 <strong>
@@ -57,7 +55,7 @@ Olá , me chamo Alaise  , sou natural de Sergipe. Concluí o ensino médio no IF
     title="GitHUB"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 
 <br/>
 
@@ -76,7 +74,7 @@ Olá , me chamo Alaise  , sou natural de Sergipe. Concluí o ensino médio no IF
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaise-tech&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaise-tech&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=7"
     />
 
 </p>
