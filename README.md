@@ -1,9 +1,9 @@
-[# 👩🏻‍💻 Alaise Caetano.md](https://github.com/user-attachments/files/23661021/Alaise.Caetano.md)
+[# 👩🏻‍💻 Alaise Caetano.md](https://github.com/user-attachments/files/23661192/Alaise.Caetano.md)
 # 👩🏻‍💻 Alaise Caetano
 
 <strong>
-Graduanda em Ciência da Computação
-Técnica em Manutenção e Suporte em Informática
+ -- Graduanda em Ciência da Computação
+ -- Técnica em Manutenção e Suporte em Informática
 </strong>
 
 ---
