@@ -2,7 +2,8 @@
 # 👩🏻‍💻 Alaise Caetano
 
 <strong>
-Olá , me chamo Alaise  , sou natural de Sergipe. Concluí o ensino médio no IFS, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no Instituto Federal de Sergipe.
+Graduanda em Ciência da Computação
+Técnica em Manutenção e Suporte em Informática
 </strong>
 
 ---
