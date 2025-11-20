@@ -1,4 +1,4 @@
-[# 👩🏻‍💻 Alaise Caetano.md](https://github.com/user-attachments/files/23661225/Alaise.Caetano.md)
+[# 👩🏻‍💻 Alaise Caetano.md](https://github.com/user-attachments/files/23661240/Alaise.Caetano.md)
 # 👩🏻‍💻 Alaise Caetano
 
 <strong>
@@ -41,7 +41,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <br/>
 
-### ✨ Versionamento
+### Versionamento
 
 <img 
     align="left" 
