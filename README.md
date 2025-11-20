@@ -1,15 +1,82 @@
 
 
-💻 **Graduanda em Ciência da Computação** no Instituto Federal de Sergipe  
-🔧 **Técnica em Manutenção e Suporte em Informática**  
+[# 👩🏻‍💻 Alaise Caetano.md](https://github.com/user-attachments/files/23660949/Alaise.Caetano.md)
+# 👩🏻‍💻 Alaise Caetano
+
+<strong>
+Olá , me chamo Alaise  , sou natural de Sergipe. Concluí o ensino médio no IFS, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação no Instituto Federal de Sergipe.
+</strong>
 
 ---
-## 🚀 Tecnologias que estou aprendendo
-- **Linguagens:** Java
-- **Banco de Dados:** MySQL
-- **Versionamento:** Git & GitHub
+
+### 🤖 Linguagens 
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JAVA" 
+    title="JAVA"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
 
+<br/>
 
+### Banco de Dados
 
+<img 
+    align="left" 
+    alt="MYSQL" 
+    title="MYSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<br/>
 
+### ✨ Versionamento
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHUB" 
+    title="GitHUB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img
+ align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=alaise-tech&show_icons=true&theme=synthwave&include_all_commits=true"/>
+
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaise-tech&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=5"
+    />
+
+</p>
