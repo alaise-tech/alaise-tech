@@ -28,7 +28,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
 />
 
-<br/><br/> > 🌱Atualmente aprendendo **C#** 🚀
+<br/><br/> > 🌱Atualmente aprendendo **.Net** 🚀
 
 ### Banco de Dados
 
