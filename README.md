@@ -40,14 +40,15 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <br/>
-<img 
-  alt="PostgreSQL" 
-  title="PostgreSQL"
-  width="30px" 
-  style="vertical-align: middle; padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-/>
-<span style="vertical-align: middle;">PostgreSQL</span>
+<div style="display: flex; align-items: center;">
+  <img 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+  />
+</div>
 
 ### Versionamento
 
