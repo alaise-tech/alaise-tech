@@ -32,14 +32,6 @@
 
 ### Banco de Dados
 
-<img 
-    align="left" 
-    alt="MYSQL" 
-    title="MYSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<br/>
 <div style="display: flex; align-items: center;">
   <img 
     alt="PostgreSQL" 
@@ -47,6 +39,12 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+  />
+  <img 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
   />
 </div>
 
